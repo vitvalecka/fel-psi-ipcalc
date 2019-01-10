@@ -1,4 +1,4 @@
-# DSA FEL ČVUT - domácí úkoly
+# PSI FEL ČVUT - IP kalkulačka
 
 IP kalkulačna napsaná na míru adresovacímu testu v předmětu PSI na FEL ČVUT.
 
