@@ -1,0 +1,3 @@
+﻿  main.cpp
+c:\data\programming\c++\test apps\ip calc\ipcalc\ipcalc\main.cpp(122): warning C4018: '<': signed/unsigned mismatch
+  IPCalc.vcxproj -> C:\Data\Programming\C++\Test Apps\IP Calc\IPCalc\Debug\IPCalc.exe
